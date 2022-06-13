@@ -53,7 +53,7 @@ Console.WriteLine("максимальное число: " + max);
 7 -> нет
 */
 
-
+/*
 Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
@@ -61,3 +61,14 @@ if(number % 2 == 0)
 Console.WriteLine(number + " является чётным числом.");
 else
 Console.WriteLine(number + " является нечётным числом.");
+*/
+
+
+
+// Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+
+Console.Write("Введите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+
+int result = number;
+???
